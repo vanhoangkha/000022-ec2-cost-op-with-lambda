@@ -1,4 +1,4 @@
-# 💡 EC2 Cost Optimization with Lambda
+# EC2 Cost Optimization with Lambda
 
 Automate EC2 cost optimization using Lambda functions.
 
@@ -8,7 +8,7 @@ This is a hands-on workshop from the **AWS First Cloud Journey** series, designe
 
 ## Workshop
 
-📖 **[Start the workshop](https://vanhoangkha.github.io/000022-ec2-cost-op-with-lambda/)**
+**[Start the workshop](https://vanhoangkha.github.io/000022-ec2-cost-op-with-lambda/)**
 
 ## Prerequisites
 
